@@ -22,23 +22,11 @@ I started learning how to code in January 2021 and spent most of my day experime
 
 ### 📊 Badges
 
-**My GitHub Stats**
+<b>My GitHub Stats</b>
 
-<p align="center">
-  <a href="https://github.com/monsieur-thinh">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=monsieur-thinh&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
-      alt="monsieur-thinh's GitHub stats"
-      width="420"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/monsieur-thinh">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsieur-thinh&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"
-      alt="Top Languages"
-      width="320"
-    />
-  </a>
-</p>
+<div >
+  <a href="http://www.github.com/monsieur-thinh"><img src="https://github-readme-stats.vercel.app/api?username=monsieur-thinh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="monsieur-thinh's GitHub stats" /></a>
+
+<a href="https://github.com/monsieur-thinh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsieur-thinh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
